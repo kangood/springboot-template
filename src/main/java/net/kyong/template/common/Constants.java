@@ -1,4 +1,4 @@
-package net.kyong.complaint.common;
+package net.kyong.template.common;
 
 /**
  * 常量类

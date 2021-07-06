@@ -1,4 +1,4 @@
-package net.kyong.complaint.common;
+package net.kyong.template.common;
 
 import lombok.extern.slf4j.Slf4j;
 

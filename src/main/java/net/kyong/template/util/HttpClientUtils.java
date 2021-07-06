@@ -1,7 +1,7 @@
-package net.kyong.complaint.util;
+package net.kyong.template.util;
 
 import com.alibaba.fastjson.JSONObject;
-import net.kyong.complaint.common.Constants;
+import net.kyong.template.common.Constants;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.http.HttpEntity;
 import org.apache.http.client.config.RequestConfig;

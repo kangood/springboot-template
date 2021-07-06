@@ -1,8 +1,8 @@
-package net.kyong.complaint.web.controller;
+package net.kyong.template.web.controller;
 
 import com.alibaba.fastjson.JSONObject;
 import lombok.extern.slf4j.Slf4j;
-import net.kyong.complaint.common.ResultModel;
+import net.kyong.template.common.ResultModel;
 import org.springframework.web.bind.annotation.*;
 
 @Slf4j

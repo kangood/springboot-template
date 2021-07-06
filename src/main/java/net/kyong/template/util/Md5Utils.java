@@ -1,4 +1,4 @@
-package net.kyong.complaint.util;
+package net.kyong.template.util;
 
 import java.security.MessageDigest;
 

@@ -1,4 +1,4 @@
-package net.kyong.complaint.util;
+package net.kyong.template.util;
 
 /**
  * 字符串对应工具类
